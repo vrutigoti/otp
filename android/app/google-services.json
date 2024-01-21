@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446392847263",
+    "project_id": "otpdemo-dd142",
+    "storage_bucket": "otpdemo-dd142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446392847263:android:17708315c465322a760baa",
+        "android_client_info": {
+          "package_name": "com.example.otp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxJzFPVXddi82Rw0dNeAee52WubldU8VA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
